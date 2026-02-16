@@ -454,7 +454,11 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: -1283.0487, y: -717.5654}
+=======
+  m_AnchoredPosition: {x: -653.008, y: -272.057}
+>>>>>>> Stashed changes
 =======
   m_AnchoredPosition: {x: -653.008, y: -272.057}
 >>>>>>> Stashed changes
