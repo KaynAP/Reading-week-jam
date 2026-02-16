@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d5b122af272505459380ea0d9bca9fc
+guid: 6c81ac7e9c81de945af1afbb5cc61683
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8596134882972196575
-    second: WebBrowser_0
+      213: 393932604112112082
+    second: Desktop2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WebBrowser_0
+      name: Desktop2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 826
-        height: 605
+        width: 779
+        height: 568
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12129134ed464b880800000000000000
-      internalID: -8596134882972196575
+      spriteID: 2d90c85cd97877500800000000000000
+      internalID: 393932604112112082
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d96531a4afe07f64d80dd50758944808
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WebBrowser_0: -8596134882972196575
+      Desktop2_0: 393932604112112082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
