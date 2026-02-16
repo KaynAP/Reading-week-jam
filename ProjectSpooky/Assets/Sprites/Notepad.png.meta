@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d5b122af272505459380ea0d9bca9fc
+guid: e0f87fd531f4f5c4f8c7ec94139edfae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8596134882972196575
-    second: WebBrowser_0
+      213: -5540101133579851087
+    second: Notepad_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WebBrowser_0
+      name: Notepad_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 826
-        height: 605
+        width: 251
+        height: 300
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12129134ed464b880800000000000000
-      internalID: -8596134882972196575
+      spriteID: 1baeb392f5b9d13b0800000000000000
+      internalID: -5540101133579851087
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d96531a4afe07f64d80dd50758944808
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WebBrowser_0: -8596134882972196575
+      Notepad_0: -5540101133579851087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
