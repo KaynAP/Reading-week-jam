@@ -387,8 +387,6 @@ GameObject:
   - component: {fileID: 955043664}
   - component: {fileID: 955043663}
   - component: {fileID: 955043662}
-  - component: {fileID: 955043665}
-  - component: {fileID: 955043666}
   m_Layer: 5
   m_Name: FadePanel
   m_TagString: Untagged
@@ -465,40 +463,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 955043660}
   m_CullTransparentMesh: 1
---- !u!114 &955043665
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 955043660}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3861225a6837f594693770d9335b5d36, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FadePanel
---- !u!95 &955043666
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 955043660}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a570863e6e8126846bad494f531032a8, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1118523744
 GameObject:
   m_ObjectHideFlags: 0
