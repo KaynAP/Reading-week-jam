@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a3446e39d90794a46a0d1ae0b7bfb676
+guid: e3ddd5ec27c002f45bee3387d0143aa1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1394311521983065602
-    second: BrowserWindow_0
+      213: -535914617156541438
+    second: CloseHomeSecLogin_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrowserWindow_0
+      name: CloseHomeSecLogin_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 929
-        height: 659
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20ee80e11f6995310800000000000000
-      internalID: 1394311521983065602
+      spriteID: 204e17ebe7c0098f0800000000000000
+      internalID: -535914617156541438
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BrowserWindow_0: 1394311521983065602
+      CloseHomeSecLogin_0: -535914617156541438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
