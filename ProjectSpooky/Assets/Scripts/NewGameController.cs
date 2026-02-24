@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class NewGameController : MonoBehaviour
 {
-    public void onStartClick()
+    public void OnStartClick()
     {
         SceneManager.LoadScene("Monitor");
     }
