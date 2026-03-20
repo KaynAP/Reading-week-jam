@@ -4,6 +4,10 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
 
+    public CanvasGroup MainPanelGroup;
+
+    public GameObject pauseMenuPanel;
+
     public GameObject pauseMenuUI;
 
     public GameObject SettingsMenuUI;
@@ -26,16 +30,23 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
+        pauseMenuPanel.SetActive(false);
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
+        MainPanelGroup.interactable = true;
+        MainPanelGroup.blocksRaycasts = true;
+
     }
 
-    void Pause()
+    public void Pause()
     {
+        pauseMenuPanel.SetActive(true);
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;
+        MainPanelGroup.interactable = false;
+        MainPanelGroup.blocksRaycasts = false;
     }
 
     public void SettingsMenu()
